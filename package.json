@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0"
+  },
+  "name": "tp4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node --watch src/server1.js"  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
